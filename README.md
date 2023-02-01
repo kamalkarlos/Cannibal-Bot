@@ -23,7 +23,7 @@ $ unknown :
 
 # Telegram
 
-@Capitos_Kamal
+@CapitosKamal
 
 
 # Support me To encourage in more tools
